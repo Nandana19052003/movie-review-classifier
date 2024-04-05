@@ -9,7 +9,7 @@ The goal of this project is to classify movie reviews into positive and negative
 
 ## Dataset
 
-The dataset used in this project consists of movie reviews along with their corresponding sentiment labels. It is sourced from [insert dataset source here].
+The dataset used in this project consists of movie reviews along with their corresponding sentiment labels. It is sourced from (https://www.kaggle.com/datasets/nisargchodavadiya/imdb-movie-reviews-with-ratings-50k)
 
 ## Model Building
 
